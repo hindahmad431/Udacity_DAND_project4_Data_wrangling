@@ -1,6 +1,6 @@
 # Udacity_DAND_project4_Data_wrangling
 
-<img src='Spring-clean--e1517937586677.jpg'\>
+<img src='Spring-clean--e1517937586677.jpg' />
   
 This project demonstrate the process of data wrangling in WeRateDogs archive
 
