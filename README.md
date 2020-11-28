@@ -1,19 +1,17 @@
 # Udacity_DAND_project4_Data_wrangling
 
-<a img='Spring-clean--e1517937586677.jpg'\>
+<img src='Spring-clean--e1517937586677.jpg'\>
   
 This project demonstrate the process of data wrangling in WeRateDogs archive
 
 it include the following tasks: 
 
-/**
 
 * Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
 * Assessing data
 * Cleaning data
 * Explortory data analysis
 
- */
 
 it contains the following files: 
 
