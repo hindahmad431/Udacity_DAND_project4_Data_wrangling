@@ -17,7 +17,9 @@ it contains the following files:
 
 **wrangle_act.ipynb** : the main project file written in Jupyter notebook
 
-**Udacity-report.pdf** : A report about the project methodology and the results
+**wrangle_act.html** : the main project file written in html
+
+**act_report.pdf** : A report about the project methodology and the results
 
 **twitter-archive-enhanced.csv** :  the first dataset, contains info about tweets in WeRateDog archive
 
@@ -27,5 +29,8 @@ it contains the following files:
 
 **tweet_json_udacity.txt**: full json file downloaded from udacity
 
+**twitter_archive_master.csv**: The complete archive after cleaning
+
 **dog_pic2.png**: dog image used as a mask in generating the word cloud
+
 
