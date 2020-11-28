@@ -8,10 +8,10 @@ it include the following tasks:
 
 /**
 
-*Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
-*Assessing data
-*Cleaning data
-*Explortory data analysis
+* Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
+* Assessing data
+* Cleaning data
+* Explortory data analysis
 
  */
 
