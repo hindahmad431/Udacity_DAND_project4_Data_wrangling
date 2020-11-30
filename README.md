@@ -17,9 +17,9 @@ it contains the following files:
 
 **wrangle_act.ipynb** : the main project file written in Jupyter notebook
 
-**wrangle_act.html** : the main project file written in html
+**Wrangle_report.pdf** : documentation for data wrangling steps: gather, assess, and clean
 
-**act_report.pdf** : A report about the project methodology and the results
+**act_report.pdf** : documentation of analysis and insights into final data
 
 **twitter-archive-enhanced.csv** :  the first dataset, contains info about tweets in WeRateDog archive
 
